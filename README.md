@@ -1,1 +1,1 @@
-# inventory-management-system-backend
+# inventory-management-api
